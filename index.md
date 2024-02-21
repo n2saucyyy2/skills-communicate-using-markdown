@@ -15,4 +15,8 @@ Step 3:
 List("Hello", "World").mkString("", ", ", "!")
 ```
 
+Step 4: 
 
+- [ ] Beat Washington
+- [ ] Beat Ohio State
+- [ ] Beat Michigan
